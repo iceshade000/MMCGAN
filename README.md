@@ -35,14 +35,14 @@ MMCGAN: bash scripts/launch_SAGAN_MMM_ema.sh
 CelebA:
 
 Raw
-![Raw](images/CelebA_Raw.jpg)
+![Raw](https://github.com/iceshade000/MMCGAN/images/CelebA_Raw.jpg)
 
 Adding MMC, the backgrounds have more diversities and the transition is more natural
-![MMC](images/CelebA_MMC.jpg)
+![MMC](https://github.com/iceshade000/MMCGAN/images/CelebA_MMC.jpg)
 
 MMC also have better FID
 
-![FID](images/FID_CelebA.jpg)
+![FID](https://github.com/iceshade000/MMCGAN/images/FID_CelebA.jpg)
 
 # Acknowledge
 Based on the implementation https://github.com/ajbrock/BigGAN-PyTorch, igul222/improved_wgan_training and martinarjovsky/WassersteinGAN
